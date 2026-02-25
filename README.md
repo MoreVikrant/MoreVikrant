@@ -21,14 +21,6 @@ Backend Developer | Spring Boot | Java | Data Science
 - 🗳️ EVM Simulation
 - 🎮 Stone Paper Scissors
 
----
 
-## 🎯 Currently
-
-- Improving Data Structures & Algorithms  
-- Building Backend Projects  
-- Learning Full Stack Development  
-
----
 
 📈 Consistency > Perfection
