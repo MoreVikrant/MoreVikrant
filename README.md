@@ -2,7 +2,7 @@
 
 # 👋Hey its Vikrant 😈
 
-Backend Developer | Spring Boot | Java | Data Science
+Backend Developer | Spring Boot | Java | Data Science | Java Script | SQl
 
 <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java" />
 <img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=flat&logo=springboot" />
