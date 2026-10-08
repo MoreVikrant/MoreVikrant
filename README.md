@@ -69,31 +69,6 @@
 
 ---
 
-## 📌 What I'm Working On
-
-```text
-🎟️ ShowSlot
-   ├── Ticket Booking
-   ├── REST APIs
-   ├── Backend Architecture
-   ├── Database Management
-   └── Spring Boot Development
-```
-
----
-
-## 📈 My Development Philosophy
-
-<div align="center">
-
-### ⚡ Consistency > Perfection
-
-**Learn → Build → Break → Debug → Improve → Repeat 🔁**
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 Thanks for visiting my profile!
