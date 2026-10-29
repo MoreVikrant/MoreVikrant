@@ -1,16 +1,31 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hey, I'm Vikrant! 😈
+# Vikrant  😈 | Backend Developer
 
-### 🚀 Backend Developer | Java 21 | Spring Boot | REST APIs | SQL | Data Science
+### Building reliable backend systems with Java & Spring Boot.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+I build RESTful APIs, database-driven applications, and containerized services, with a focus on clean code, data integrity, and scalable backend architecture.
+
+<br/>
+
+<a href="https://www.oracle.com/java/">
+  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
+</a>
+<a href="https://spring.io/projects/spring-boot">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
 
 </div>
 
@@ -18,61 +33,88 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Aspiring **Backend Developer**
-* ☕ Building backend applications with **Java 21 & Spring Boot**
-* 🔗 Developing scalable **REST APIs**
-* 🗄️ Working with **SQL & database-driven applications**
-* 📊 Exploring **Data Science & Data Analysis**
-* 🚀 Always learning, building, and improving
+- Backend developer focused on **Java 21 and Spring Boot**.
+- Building REST APIs with a focus on maintainability and clear architecture.
+- Working with relational databases, SQL, and Spring Data JPA.
+- Exploring concurrency control, transaction management, and data consistency.
+- Containerizing applications with Docker and Docker Compose.
+- Exploring data analysis and Python alongside backend development.
+
+> My goal is to build software that is not just functional, but reliable, maintainable, and ready to evolve.
 
 ---
 
-## 🔥 Current Project
+## 🚀 Featured Project
 
-### 🎟️ ShowSlot — Ticket Booking Platform
+### 🎟️ ShowSlot — Movie Ticket Booking Platform
 
-> A backend-focused ticket booking platform designed to manage shows, users, bookings, and ticket reservations.
+A backend-focused ticket booking application designed to manage movies, showtimes, seats, and bookings.
 
-**Tech Focus:**
-`Java 21` • `Spring Boot` • `REST APIs` • `SQL` • `Backend Development`
+**Tech stack**
 
-🚧 **Currently Building & Improving**
+`Java 21` · `Spring Boot` · `Spring Data JPA` · `MySQL` · `JavaScript` · `Docker` · `Docker Compose`
+
+**Engineering highlights**
+
+- **Booking management:** Organizing movies, shows, seats, and ticket reservations.
+- **Concurrency handling:** Working toward safe seat allocation when multiple users attempt to book seats simultaneously.
+- **Persistence layer:** Managing relational data through Spring Data JPA and MySQL.
+- **Containerization:** Running application services with Docker and Docker Compose.
+- **Persistent storage:** Using Docker volumes to preserve database data across container restarts.
+
+## 🧩 Other Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 💰 Expense Tracker | REST API for managing and tracking expenses | Spring Boot, SQL |
+| 📊 Employee Sales Analysis | Analyzing employee sales data and extracting insights | Python, Data Analysis |
+| 🏦 Banking System | Console-based banking application | Core Java |
+| 🗳️ EVM Simulation | Electronic voting machine simulation | Java |
+| 🎮 Stone Paper Scissors | Implementation of the classic game | Java |
 
 ---
 
-## 🚀 Featured Projects
-
-| Project                        | Description                                       | Technology                           |
-| ------------------------------ | ------------------------------------------------- | ------------------------------------ |
-| 🎟️ **ShowSlot**               | Ticket Booking Platform                           | Java • Spring Boot • REST APIs • SQL |
-| 💰 **Expense Tracker**         | Expense management REST API                       | Spring Boot • REST API • SQL         |
-| 📊 **Employee Sales Analysis** | Data analysis & insights from employee sales data | Data Science                         |
-| 🏦 **Banking System**          | Console-based banking application                 | Core Java                            |
-| 🗳️ **EVM Simulation**         | Electronic Voting Machine simulation              | Java                                 |
-| 🎮 **Stone Paper Scissors**    | Classic game implementation                       | Java                                 |
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### Backend
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring"/>
 
-### Programming & Development
+### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=js,python,git,github" />
+<img src="https://skillicons.dev/icons?i=mysql,docker" alt="MySQL and Docker"/>
+
+### Programming & Tools
+
+<img src="https://skillicons.dev/icons?i=js,python,git,github" alt="JavaScript, Python, Git and GitHub"/>
 
 </div>
 
+**Core concepts:** Object-Oriented Programming · REST API Design · SQL · Relational Database Design · Data Persistence · Concurrency Fundamentals
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening backend architecture and API design.
+- Improving database performance and transaction handling.
+- Learning production-oriented Docker workflows.
+- Building practical projects that demonstrate real-world engineering concepts.
+
 ---
 
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
+### Let's build something meaningful.
 
-⭐ Check out my repositories and feel free to explore my projects.
+**Thanks for visiting my profile!**
+
+Explore my repositories, follow my progress, and connect through GitHub.
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
 
 </div>
