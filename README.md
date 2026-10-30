@@ -74,36 +74,29 @@ A backend-focused ticket booking application designed to manage movies, showtime
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 <div align="center">
 
-### Backend Development
-
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>Backend Development</h3>
 <img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring"/>
+</td>
 
-### Databases & Infrastructure
-
+<td align="center" width="33%">
+<h3>Databases & Infrastructure</h3>
 <img src="https://skillicons.dev/icons?i=mysql,docker" alt="MySQL and Docker"/>
+</td>
 
-### Programming & Tools
-
+<td align="center" width="33%">
+<h3>Programming & Tools</h3>
 <img src="https://skillicons.dev/icons?i=js,python,git,github" alt="JavaScript, Python, Git and GitHub"/>
+</td>
+</tr>
+</table>
 
-</div>
-
-**Core concepts:** Object-Oriented Programming · REST API Design · SQL · Relational Database Design · Data Persistence · Concurrency Fundamentals
-
----
-
-## 🎯 Current Focus
-
-- Strengthening backend architecture and API design.
-- Improving database performance and transaction handling.
-- Learning production-oriented Docker workflows.
-- Building practical projects that demonstrate real-world engineering concepts.
-
----
 
 <div align="center">
 
@@ -111,10 +104,3 @@ A backend-focused ticket booking application designed to manage movies, showtime
 
 **Thanks for visiting my profile!**
 
-Explore my repositories, follow my progress, and connect through GitHub.
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-
-</div>
