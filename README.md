@@ -1,30 +1,28 @@
- <div align="center">
-
-# Vikrant  😈 | Backend Developer
-
-### Building reliable backend systems with Java & Spring Boot.
-
-I build RESTful APIs, database-driven applications, and containerized services, with a focus on clean code, data integrity, and scalable backend architecture.
+<div align="center">
+ 
+# Vikrant 😈 | Java Full Stack Developer  
 
 <br/>
 
-<a href="https://www.oracle.com/java/">
-  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
-</a>
-<a href="https://spring.io/projects/spring-boot">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</a>
-<a href="https://www.docker.com/">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</a>
+I'm a **backend developer** who builds **secure, scalable, event-driven systems**: payment gateways, real-time messaging, cloud storage and AI platforms. **Java and Spring Boot** are my core, backed by Kafka, MySQL, Docker and a React frontend when the product needs one.
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
+<a href="https://spring.io/projects/spring-security"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/></a>
+<a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+
+<br/>
+
+<a href="https://github.com/MoreVikrant/FlowPay">
+  <img src="https://img.shields.io/badge/🔥_Check_Out_FlowPay-181717?style=for-the-badge&logo=github&logoColor=white" alt="FlowPay"/>
+</a>
+<a href="https://github.com/MoreVikrant?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
 
 </div>
@@ -33,74 +31,151 @@ I build RESTful APIs, database-driven applications, and containerized services, 
 
 ## 👨‍💻 About Me
 
-- Backend developer focused on **Java 21 and Spring Boot**.
-- Building REST APIs with a focus on maintainability and clear architecture.
-- Working with relational databases, SQL, and Spring Data JPA.
-- Exploring concurrency control, transaction management, and data consistency.
-- Containerizing applications with Docker and Docker Compose.
-- Exploring data analysis and Python alongside backend development.
+- ⚙️ **Backend Developer** (B.E. CSE, 2026) with a strong core in **Java 21 and Spring Boot**.
+- 🚧 Currently building **Loop** (real-time messaging) and **Genie AI** (student AI chat platform).
+- 🔐 Building secure REST APIs with **Spring Security and JWT**.
+- 🧱 Designing **microservices** with Spring Boot and Eureka service discovery.
+- 📨 Working with **event-driven architecture**: Kafka, the Transactional Outbox pattern and idempotent operations.
+- 🗄️ Comfortable with **MySQL, Oracle SQL and Spring Data JPA / Hibernate**.
+- 🐳 Containerizing full stacks with **Docker and Docker Compose**.
+- ☁️ **AWS Academy Graduate: AWS Cloud Foundations** certified.
 
-> My goal is to build software that is not just functional, but reliable, maintainable, and ready to evolve.
+> 💡 My goal is to build software that is not just functional, but **reliable, secure, and ready to scale**.
 
 ---
 
 ## 🚀 Featured Project
 
-### 🎟️ ShowSlot — Movie Ticket Booking Platform
+<div align="center">
 
-A backend-focused ticket booking application designed to manage movies, showtimes, seats, and bookings.
+### 💳 FlowPay: Full-Stack Payment Gateway
+
+**A Razorpay-style payment platform with a merchant dashboard, built to demonstrate how real payment backends work.**
+
+<a href="https://github.com/MoreVikrant/FlowPay"><img src="https://img.shields.io/badge/View_Repository-FlowPay-F7B93E?style=for-the-badge&logo=github&logoColor=black" alt="FlowPay repo"/></a>
+
+</div>
 
 **Tech stack**
 
-`Java 21` · `Spring Boot` · `Spring Data JPA` · `MySQL` · `JavaScript` · `Docker` · `Docker Compose`
+`Java 21` · `Spring Boot` · `Spring Data JPA` · `MySQL` · `Apache Kafka` · `React` · `Docker Compose`
 
 **Engineering highlights**
 
-- **Booking management:** Organizing movies, shows, seats, and ticket reservations.
-- **Concurrency handling:** Working toward safe seat allocation when multiple users attempt to book seats simultaneously.
-- **Persistence layer:** Managing relational data through Spring Data JPA and MySQL.
-- **Containerization:** Running application services with Docker and Docker Compose.
-- **Persistent storage:** Using Docker volumes to preserve database data across container restarts.
-
-## 🧩 Other Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 💰 Expense Tracker | REST API for managing and tracking expenses | Spring Boot, SQL |
-| 📊 Employee Sales Analysis | Analyzing employee sales data and extracting insights | Python, Data Analysis |
-| 🏦 Banking System | Console-based banking application | Core Java |
-| 🗳️ EVM Simulation | Electronic voting machine simulation | Java |
-| 🎮 Stone Paper Scissors | Implementation of the classic game | Java |
+- 🔑 **Merchant auth:** API-key authentication with SHA-256 hashed keys and merchant-scoped access to every resource.
+- 🔁 **Idempotent payments:** `Idempotency-Key` support for payment, refund and settlement creation, so retries never double-charge.
+- 📬 **Transactional Outbox + Kafka:** Domain events are persisted with the business transaction and published asynchronously, closing the DB-commit/publish gap.
+- 🪝 **Signed webhooks:** HMAC-SHA256 signatures, exponential-backoff retries and a full delivery history.
+- 🏦 **Mock bank simulator:** Success, failure, delayed and timeout scenarios, with scheduled reconciliation of pending payments.
+- 📒 **Ledger, refunds & settlements:** Integer-paise money handling, partial refunds with fee reversal and balance tracking.
+- 🐳 **One-command setup:** Fully Dockerized with Spring Boot, React, MySQL and Kafka via Docker Compose.
 
 ---
 
-# 🛠️ Technical Skills
+## 🚧 Currently Building
+
+<div align="center">
+
+| | Project | What it is | Status |
+|---|---|---|---|
+| 💬 | **Loop** | Real-time messaging platform like WhatsApp | ![Status](https://img.shields.io/badge/🔨_In_Progress-F7B93E?style=flat-square) |
+| 🤖 | **Genie AI** | Student AI chat platform like ChatGPT | ![Status](https://img.shields.io/badge/🔨_In_Progress-F7B93E?style=flat-square) |
+
+<sub>Repositories dropping soon. Stay tuned 👀</sub>
+
+</div>
+
+---
+
+## 🧩 More Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🎟️ **ShowSlot** | BookMyShow-style booking backend covering movies, shows, seats and reservations, with work toward safe concurrent seat allocation | `Java 21` `Spring Boot` `JPA` `MySQL` `Docker` |
+| ☁️ **Cloud Storage Platform** | Cloud storage platform like Google Drive, built as 2 Spring Boot microservices with Eureka service discovery | `Spring Boot` `Eureka` `Microservices` |
+| 🏦 **Banking System** | Console-based banking application | `Core Java` |
+| 🗳️ **EVM Simulation** | Electronic voting machine simulation | `Java` |
+| 🎮 **Stone Paper Scissors** | Classic game implementation | `Java` |
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>Backend Development</h3>
-<img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring"/>
+<h3>☕ Backend</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java, Spring, Hibernate, Maven"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Eureka-6DB33F?style=flat-square" alt="Eureka"/>
 </td>
 
 <td align="center" width="33%">
-<h3>Databases & Infrastructure</h3>
-<img src="https://skillicons.dev/icons?i=mysql,docker" alt="MySQL and Docker"/>
+<h3>🗄️ Databases & Messaging</h3>
+<img src="https://skillicons.dev/icons?i=mysql,kafka" alt="MySQL, Kafka"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square" alt="Spring Data JPA"/>
 </td>
 
 <td align="center" width="33%">
-<h3>Programming & Tools</h3>
-<img src="https://skillicons.dev/icons?i=js,python,git,github" alt="JavaScript, Python, Git and GitHub"/>
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,vite" alt="React, JavaScript, HTML, CSS, Vite"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<h3>☁️ DevOps & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github" alt="Docker, AWS, Git, GitHub"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
+<img src="https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations"/>
+</td>
+
+<td align="center" width="33%">
+<h3>🧰 Tools</h3>
+<img src="https://skillicons.dev/icons?i=idea,postman,linux" alt="IntelliJ, Postman, Linux"/>
+</td>
+
+<td align="center" width="33%">
+<h3>🧠 Core Concepts</h3>
+<img src="https://img.shields.io/badge/OOP-5C2D91?style=flat-square" alt="OOP"/>
+<img src="https://img.shields.io/badge/DSA-E34F26?style=flat-square" alt="DSA"/>
+<img src="https://img.shields.io/badge/System_Design-0A66C2?style=flat-square" alt="System Design"/>
+<img src="https://img.shields.io/badge/Idempotency-8A2BE2?style=flat-square" alt="Idempotency"/>
+<img src="https://img.shields.io/badge/Event_Driven_Architecture-231F20?style=flat-square" alt="Event Driven Architecture"/>
+<img src="https://img.shields.io/badge/Real--Time_Messaging-25D366?style=flat-square" alt="Real-Time Messaging"/>
 </td>
 </tr>
 </table>
 
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### Let's build something meaningful.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MoreVikrant&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreVikrant&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-**Thanks for visiting my profile!**
+</div>
 
+---
+
+<div align="center">
+
+### ⚡ Let's build something reliable.
+
+**Thanks for visiting my profile!** Open to entry-level **Backend Developer** opportunities.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="footer"/>
+
+</div>
