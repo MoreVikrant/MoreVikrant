@@ -168,8 +168,6 @@ I'm a **Java Full Stack developer** who builds **secure, scalable, event-driven 
 
 </div>
 
----
-
 <div align="center">
 
 ### ⚡ Let's build something reliable.
@@ -177,5 +175,3 @@ I'm a **Java Full Stack developer** who builds **secure, scalable, event-driven 
 **Thanks for visiting my profile!** Open to  **Full Stack Developer ** opportunities.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="footer"/>
-
-</div>
