@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm a **backend developer** who builds **secure, scalable, event-driven systems**: payment gateways, real-time messaging, cloud storage and AI platforms. **Java and Spring Boot** are my core, backed by Kafka, MySQL, Docker and a React frontend when the product needs one.
+I'm a **Java Full Stack developer** who builds **secure, scalable, event-driven systems**: payment gateways, real-time messaging, cloud storage and AI platforms. **Java and Spring Boot** are my core, backed by Kafka, MySQL, Docker and a React frontend when the product needs one.
 
 <br/>
 
