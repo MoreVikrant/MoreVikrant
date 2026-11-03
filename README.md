@@ -91,8 +91,8 @@ I'm a **backend developer** who builds **secure, scalable, event-driven systems*
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🎟️ **ShowSlot** | BookMyShow-style booking backend covering movies, shows, seats and reservations, with work toward safe concurrent seat allocation | `Java 21` `Spring Boot` `JPA` `MySQL` `Docker` |
-| ☁️ **Cloud Storage Platform** | Cloud storage platform like Google Drive, built as 2 Spring Boot microservices with Eureka service discovery | `Spring Boot` `Eureka` `Microservices` |
+| 🎟️ **ShowSlot** | a movie ticket booking platform using Java 21, Spring Boot, JWT, MySQL and Docker, featuring secure authentication, REST APIs, and concurrency-safe booking | `Java 21` `Spring Boot` `JPA` `MySQL` `Docker` |
+| ☁️ **CloudVault** | A file management system built with Java, Spring Boot Microservices, OpenFeign, and Spring Data JPA, featuring file and folder operations with local file system storage. | `Spring Boot` `Eureka` `Microservices` |
 | 🏦 **Banking System** | Console-based banking application | `Core Java` |
 | 🗳️ **EVM Simulation** | Electronic voting machine simulation | `Java` |
 | 🎮 **Stone Paper Scissors** | Classic game implementation | `Java` |
